@@ -5,7 +5,7 @@
 
 ## Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,nginx" alt="Backend Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi" alt="Backend Skills" />
 </p>
 
 ## Database
