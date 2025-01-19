@@ -15,5 +15,6 @@
 
 ## Programming Language
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,js,python" alt="Programming Languages" style="height: 50px; width: auto;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" style="height: 50px; width: auto;" />
 </p>
